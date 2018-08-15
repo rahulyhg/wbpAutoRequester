@@ -8,7 +8,7 @@ After modifications has been made to api.php then modify addtask.php with the mi
 ```
 localhost/addtask.php?a=some_data&b=some_data
 ```
-# Download Project:
+## Download Project:
 Download ZIP:
 ```
 https://github.com/unixbadass/wbpAutoRequester/archive/master.zip
@@ -23,7 +23,7 @@ https://github.com/unixbadass/wbpAutoRequester.git
 No changes to the code since release.
 ```
 
-# PoC:
+## PoC:
 #### Let's imagine that John wont let you access his server with files that contain code for a controlable webpanel that performs actions but you somehow still need to be able to add a task without having to login via Basic Realm Authentication and manually add the task or task(s) then wbpAutoRequester does the job with cURL.
 
 # MIT License:
