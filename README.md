@@ -17,7 +17,11 @@ Download GIT:
 ```
 https://github.com/unixbadass/wbpAutoRequester.git  
 ```
-No older versions to be found. 
+
+# Changelog:
+```
+No changes to the code since release.
+```
 
 # PoC:
 #### Let's imagine that John wont let you access his server with files that contain code for a controlable webpanel that performs actions but you somehow still need to be able to add a task without having to login via Basic Realm Authentication and manually add the task or task(s) then wbpAutoRequester does the job with cURL.
